@@ -11,28 +11,37 @@
 
 ## 如何執行
 **步驟**：
-    1. 輸入「押注金額」並點擊 **[押注]**。
-    2. 點擊 **[發牌]**。
-    3. 點選牌面以「蓋牌」（選擇想更換的牌）。
-    4. 點擊 **[換牌]**。
+    1. 輸入「押注金額」並點擊 **[押注]**。<br>
+    2. 點擊 **[發牌]**。<br>
+    3. 點選牌面以「蓋牌」（選擇想更換的牌）。<br>
+    4. 點擊 **[換牌]**。<br>
     5. 點擊 **[判斷牌型]** 查看結果與獎金。
     
 ## 執行截圖與說明
 **範例一**：正常情況下使用執行結果
+
 <img width="1044" height="745" alt="image" src="https://github.com/user-attachments/assets/ca281c9b-2d6c-4fca-8752-c2840670b886" />
+
 換牌情況：選擇想要的撲克牌，會將所選取的撲克牌翻轉成背面
+
 <img width="1022" height="709" alt="image" src="https://github.com/user-attachments/assets/0a43c105-7ae5-4713-83bc-407f7c34c730" />
 <img width="1038" height="737" alt="image" src="https://github.com/user-attachments/assets/e078ee4e-ee11-47b0-9909-c3fb8a7a8401" />
+
 顯示牌型：
+
 <img width="1036" height="734" alt="image" src="https://github.com/user-attachments/assets/9329f145-730f-4c23-a1a2-753b7a3a5a5a" />
 
 **範例二**：使用內建快捷鍵
 原本牌型：
+
 <img width="1047" height="738" alt="image" src="https://github.com/user-attachments/assets/ae6cde41-acb8-4a05-a66f-3a6960454592" />
+
 點選`Q`皇家同花順：
+
 <img width="1046" height="744" alt="image" src="https://github.com/user-attachments/assets/c7d0ce72-b142-4381-b541-edcc5b8d3eea" />
 
 **範例三**：提醒功能
+
 <img width="1018" height="743" alt="image" src="https://github.com/user-attachments/assets/7f084769-e937-42c5-b236-28854231204a" />
 <img width="1035" height="739" alt="image" src="https://github.com/user-attachments/assets/c9d63c79-a946-42a6-ba02-dab6565674b7" />
 
